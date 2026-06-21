@@ -1,0 +1,27 @@
+# Do Plano ao Ar — Monte Seu Site e Aplicativo
+📚 **Awaken – Biblioteca do Saber** | Volume 1: Iniciante e Intermediário
+
+## 📖 Sobre o Projeto
+Este é o repositório oficial do primeiro volume do curso completo, construído seguindo a **Regra de Ouro** para criação de materiais educativos. Aqui você aprende a criar, estruturar e colocar no ar sua plataforma, com todo o suporte para evoluir do zero até o ecossistema completo.
+
+### ✅ Pilares abordados:
+- Preparo inicial e primeiros arquivos
+- Conta e uso do GitHub
+- Noções básicas de formalização e rotinas organizadas
+- Entendimento do que o cliente realmente procura
+- Como superar dificuldades iniciais e não desistir
+- Prova prática para consolidação de habilidades
+
+## 📂 Estrutura de Arquivos
+- `index.html`: Conteúdo principal, navegação e lista de verificação passo‑a‑passo
+- `/css/`: Arquivos de estilo, design responsivo adaptado para celular
+- `/imagens/`: Ilustrações, mapas de raciocínio e elementos visuais
+- `/audio/`: Arquivos de narração completa e música de fundo opcional
+- `/videos/`: Tutoriais curtos demonstrativos
+- `prova-pratica.pdf`: Avaliação prática ao final do volume
+- `LEIA-ME-COMISSOES.md`: Explicação das indicações e sistema de ganhos por parceria
+
+## 🚀 Como usar e executar
+1. **Clonar o repositório**:
+   ```bash
+   git clone https://github.com/seu-usuario/Awaken-Biblioteca-do-Saber.git
