@@ -1,0 +1,17 @@
+Awaken-Biblioteca-do-Saber/
+├── README.md
+├── index.html
+├── css/estilo.css
+├── imagens/ (coloque suas ilustrações aqui)
+├── audio/ (arquivos de narração e música)
+├── videos/ (vídeos curtos explicativos)
+├── volume‑1‑iniciante/
+│   ├── conteudo‑volume1.html
+│   └── prova‑pratica.pdf
+├── volume‑2‑avancado/
+│   ├── conteudo‑volume2.html
+│   └── prova‑intermediaria.pdf
+└── volume‑3‑plano‑mestre/
+    ├── conteudo‑volume3.html
+    └── prova‑final.pdf
+  
